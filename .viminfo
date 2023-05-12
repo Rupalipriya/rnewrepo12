@@ -12,7 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
+<<<<<<< HEAD
 |2,0,1683910159,,"wq!"
+=======
+|2,0,1683910027,,"wq!"
+>>>>>>> newbrnachfile
 
 # Search String History (newest to oldest):
 
@@ -25,6 +29,7 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  4  0  ~/file123
 |4,48,4,0,1683910159,"~/file123"
 '1  3  0  ~/file123
@@ -37,6 +42,16 @@
 |4,39,4,0,1683910159,"~/file123"
 -'  3  0  ~/file123
 |4,39,3,0,1683910138,"~/file123"
+=======
+'0  3  17  ~/file123
+|4,48,3,17,1683910027,"~/file123"
+'1  3  0  ~/file123
+|4,49,3,0,1683908935,"~/file123"
+
+# Jumplist (newest first):
+-'  3  17  ~/file123
+|4,39,3,17,1683910027,"~/file123"
+>>>>>>> newbrnachfile
 -'  3  0  ~/file123
 |4,39,3,0,1683908935,"~/file123"
 -'  1  0  ~/file123
@@ -47,9 +62,18 @@
 # History of marks within files (newest to oldest):
 
 > ~/file123
+<<<<<<< HEAD
 	*	1683910157	0
 	"	4	0
 	^	4	0
 	.	3	38
 	+	2	20
 	+	3	38
+=======
+	*	1683910024	0
+	"	3	17
+	^	3	18
+	.	3	17
+	+	2	20
+	+	3	17
+>>>>>>> newbrnachfile
